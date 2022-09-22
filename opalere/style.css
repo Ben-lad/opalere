@@ -141,6 +141,7 @@ nav li a:hover {
   width:1em;
   margin: .5em;
   cursor: pointer;
+  display:none;
 }
 
 
