@@ -502,7 +502,7 @@ footer{
 
   /*-----------------------------------------------*/
   .mobile-menu-exit , .mobile-menu {
-    display: none;
+    display: block;
   }
   .menu .djbd{
     display: flex;
@@ -536,9 +536,9 @@ footer{
 }/*media ends*/
 
 @media (min-width:1080px){
-  footer{
+/*   footer{
     display:none;
-  }
+  } */
   .testimony {
     display:flex;
 
