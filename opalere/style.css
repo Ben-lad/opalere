@@ -538,7 +538,7 @@ footer{
 @media (min-width:1080px){
   footer{
     display:none;
-  
+  }
   .testimony {
     display:flex;
 
