@@ -451,7 +451,8 @@ body.demo{
 }
 
 @media (min-width: 768px) {
-
+footer{
+  display:none;
 
   .mobile-menu , .mobile-menu-exit {
     display: none;
@@ -535,6 +536,8 @@ body.demo{
 }/*media ends*/
 
 @media (min-width:1080px){
+  footer{
+    display:none;
   
   .testimony {
     display:flex;
